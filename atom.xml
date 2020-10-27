@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yaotc.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-10-27T07:52:29.521Z</updated>
+    <title>Yaotc</title>
+    <updated>2020-10-27T07:55:54.048Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yaotc.github.io"/>
     <link rel="self" href="https://yaotc.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://yaotc.github.io/images/avatar.png</logo>
     <icon>https://yaotc.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, Yaotc</rights>
     <entry>
         <title type="html"><![CDATA[记录生活之看剧日常]]></title>
         <id>https://yaotc.github.io/post/ji-lu-sheng-huo-zhi-kan-ju-ri-chang/</id>
