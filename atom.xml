@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://yaotc.github.io</id>
+    <title>Gridea</title>
+    <updated>2020-10-27T07:52:29.521Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://yaotc.github.io"/>
+    <link rel="self" href="https://yaotc.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://yaotc.github.io/images/avatar.png</logo>
+    <icon>https://yaotc.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[记录生活之看剧日常]]></title>
+        <id>https://yaotc.github.io/post/ji-lu-sheng-huo-zhi-kan-ju-ri-chang/</id>
+        <link href="https://yaotc.github.io/post/ji-lu-sheng-huo-zhi-kan-ju-ri-chang/">
+        </link>
+        <updated>2020-10-27T07:47:03.000Z</updated>
+        <content type="html"><![CDATA[<hr>
+<p>第一篇blog，先来一个生活日常系列。记录一些从大学到现在看的剧。</p>
+<h2 id="神剧">神剧</h2>
+<ol>
+<li><strong>神探夏洛克</strong></li>
+<li><strong>越狱</strong></li>
+<li><strong>生活大爆炸</strong></li>
+<li><strong>绝命毒师</strong></li>
+<li><strong>老友记</strong></li>
+</ol>
+<h2 id="温馨日常">温馨日常</h2>
+<ol>
+<li>无耻之徒</li>
+<li>摩登家庭</li>
+</ol>
+<h2 id="硬核战争">硬核战争</h2>
+<ol>
+<li>权利的游戏</li>
+<li>斯巴达克斯</li>
+</ol>
+<h2 id="科幻超能力冒险">科幻/超能力/冒险</h2>
+<ol>
+<li>迷失</li>
+<li>绿箭侠</li>
+<li>闪电侠</li>
+<li>地球百子</li>
+<li>穹顶之下</li>
+<li>神盾特工局</li>
+<li>西部世界</li>
+<li>辛巴达历险记</li>
+</ol>
+<h2 id="乱搞僵尸">乱搞/僵尸</h2>
+<ol>
+<li>吸血鬼日记</li>
+<li>绯闻女孩</li>
+<li>破产姐妹</li>
+<li>行尸走肉</li>
+</ol>
+<h2 id="阴暗">阴暗</h2>
+<ol>
+<li>黑镜</li>
+</ol>
+]]></content>
+    </entry>
+</feed>
