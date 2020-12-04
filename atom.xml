@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yaotc.github.io</id>
     <title>Yaotc</title>
-    <updated>2020-10-27T07:55:54.048Z</updated>
+    <updated>2020-12-04T09:08:11.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yaotc.github.io"/>
     <link rel="self" href="https://yaotc.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://yaotc.github.io/images/avatar.png</logo>
     <icon>https://yaotc.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Yaotc</rights>
+    <entry>
+        <title type="html"><![CDATA[11]]></title>
+        <id>https://yaotc.github.io/post/11/</id>
+        <link href="https://yaotc.github.io/post/11/">
+        </link>
+        <updated>2020-12-04T09:07:15.000Z</updated>
+        <content type="html"><![CDATA[<p>test</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[记录生活之看剧日常]]></title>
         <id>https://yaotc.github.io/post/ji-lu-sheng-huo-zhi-kan-ju-ri-chang/</id>
