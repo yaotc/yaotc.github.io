@@ -8,15 +8,15 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Yuchen Yang @ UNC-CH
+title : 姚铁锤 @ UCAS
 author :
-  name : Yuchen Yang
-  email : yyuchen@email.unc.edu
-  github : https://github.com/yycunc
+  name : 姚铁锤
+  email : yaotiechui@gmail.com
+  github : https://github.com/yaotc
   feedburner : nil
 
 # NOTE: If replacing this next line with your own URL, you likely want "https://" not "http://"
-production_url : https://yycunc.github.io/
+production_url : https://yaotc.github.io/
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
@@ -51,7 +51,7 @@ JB :
   #     This means always setting the protocol (http|https) or prefixing with "/"
   #
   # NOTE: If replacing this next line with your own URL, you likely want "https://" not "http://"
-  BASE_PATH : https://yycunc.github.io/
+  BASE_PATH : https://yaotc.github.io/
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
