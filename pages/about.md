@@ -3,12 +3,13 @@ layout: page
 title: 姚铁锤
 ---
 
+hi there.
 
-### 研究方向
+### Research Interests
 
 高性能计算与智能计算、人工智能交叉学科应用
 
-### 发表论文
+### Publications
 
 [1] Yao T, Wang J, Wu H, et al. Intra-Hour Photovoltaic Generation Forecasting Based on Multi-Source Data and Deep Learning Methods[J]. IEEE Transactions on Sustainable Energy, 2021, 13(1): 607-618. $\color{red}{\text{JCR Q1}}$
 
@@ -35,7 +36,7 @@ title: 姚铁锤
 [11] 曹中潇,冯仰德,王珏,闵维潇,姚铁锤,高岳,王丽华,高付海.基于深度学习的稀疏矩阵向量乘运算性能预测模型[J].计算机工程,2022,48(02):86-91.
 
 
-### 教育经历
+### Education
 
 - 2017 - 2023:  **中国科学院大学**, **中国科学院计算机网络信息中心**
     - 计算机学院--计算机软件与理论--工科博士
@@ -44,6 +45,6 @@ title: 姚铁锤
     - 计算机学院--生物医学工程--工科学士
 
 
-### 获奖情况
+### Awards
 
 - 2021 - 2022 中国科学院
