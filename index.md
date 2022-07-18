@@ -13,6 +13,9 @@ title: Tiechui Yao
     </div>
 </div>
 
+姚铁锤(1993--)，研究领域为基于智能超算的交叉学科领域应用。在学期间，已发表和录用学术论文11篇，其中第一作者6篇，包括JCR一区3篇和JCR二区1篇，累计影响因子为27.384，申请专利3项（已授权2项），软著1项。相关成果以第一作者身份发表在IEEE Transactions on Sustainable Energy (《能源电力领域高质量科技期刊分级目录》T1级期刊，JCR Q1，影响因子8.310)、CSEE Journal of Power and Energy Systems(《分级目录》T1级期刊，JCR Q1，影响因子6.014)、Solar Energy（《分级目录》T1级期刊，JCR Q2，影响因子7.188），论文自发表以来受到包括美欧等数十个国家近700位研究者们的广泛关注。参与研究的人工智能平台，为国内外多个高校与科研院所用户提供技术和平台的支撑，相关成果发表在计算机领域国际期刊Journal of Systems Architecture (JCR Q1，影响因子5.836)。
+
+---
 
 ### RESEARCH INTERESTS
 
