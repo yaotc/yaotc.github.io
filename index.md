@@ -19,7 +19,8 @@ title: Tiechui Yao
 高性能计算与智能计算、人工智能交叉学科应用
 
 ---
-### Publications
+
+### PUBLICATION
 
 [1] Yao T, Wang J, Wu H, et al. Intra-Hour Photovoltaic Generation Forecasting Based on Multi-Source Data and Deep Learning Methods[J]. IEEE Transactions on Sustainable Energy, 2021, 13(1): 607-618. **JCR Q1**.
 
@@ -45,18 +46,29 @@ title: Tiechui Yao
 
 [11] 曹中潇,冯仰德,王珏,闵维潇,姚铁锤,高岳,王丽华,高付海.基于深度学习的稀疏矩阵向量乘运算性能预测模型[J].计算机工程,2022,48(02):86-91.
 
+[12] 姚铁锤,等,基于多GPU计算与卷积神经网络的阿尔茨海默症早期预警研究, 2017年全国高性能计算学术年会；Poster.
+
+---
+
 ### PROFESSIONAL EXPERIENCE AND EDUCATION
 
-- 2017 - 2023:  **中国科学院大学**, **中国科学院计算机网络信息中心**
-  - 计算机学院--计算机软件与理论--工科博士
+- 2017 - 2023:  **中国科学院大学**
+
+  - 中国科学院计算机网络信息中心 -- 计算机软件与理论 -- 工科博士
+
+- 2016 - 2017:  **平顶山市第一人民医院**
+
+  - 医学影像科 -- 医学影像工程师
 
 - 2012 - 2016:  **江西中医药大学**
-  - 计算机学院--生物医学工程--工科学士
+
+  - 计算机学院 -- 生物医学工程 -- 工科学士
 
 ---
 
 ### HONORS AND AWARDS
-2015 - 2017 Academic Scholarship Award 
+
+2015 - 2017 Academic Scholarship Award
 
 ---
 
@@ -64,8 +76,8 @@ title: Tiechui Yao
 
 <div class="container">
     <div class="row-fluid">
-            <b>Email</b>: yaotiechui@gmail.com<br/>
-            <b>Office</b>: CNIC<br/>
-            <b>GitHub</b>: <a href="https://github.com/yaotc">https://github.com/yaotc</a><br/>
+            <b>Email </b>: yaotiechui@gmail.com<br/>
+            <b>Address </b>: CNIC<br/>
+            <b>GitHub </b>: <a href="https://github.com/yaotc">https://github.com/yaotc</a><br/>
     </div>
 </div>
