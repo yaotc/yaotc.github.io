@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Yuchen Yang
+title: Tiechui Yao
 ---
 
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-        <a href="assets/Yuchen.jpg">
-            <img src="assets/Yuchen.jpg" height="210" width="150" title="Yuchen Yang" alt="Yuchen Yang"/>
+        <a href="assets/yaotc.jpg">
+            <img src="assets/yaotc.jpg" height="210" width="150" title="Tiechui Yao" alt="Tiechui Yao"/>
         </a>
         </div>
     </div>
@@ -16,7 +16,7 @@ title: Yuchen Yang
 
 ### RESEARCH INTERESTS
 
-The focus of my research is on the development of statistical methods for single-cell RNA-seq (scRNA-seq) and chromatin interaction (Hi-C) data analysis, and their application to the genetic dissection of complex diseases and traits. In particular, I have developed single-cell aggregated clustering methods (implemented in software SAFE-clustering and SAME-clustering) for flexible, accurate and robust clustering scRNA-seq data. In addition, I also work on batch effect correction for single-cell RNA-seq data, which takes advantages of cell type/cluster information to guide supervised mutual nearest neighbor detection (SMNN method). More recently, I worked on the statistical framework for Hi-C peak calling (MUNIn program), and identifying and characterizing cardiovascular cell types in mouse and the wounding-related cell dynamics in zebrafish.
+The focus of my research is on the.
 
 ---
 
