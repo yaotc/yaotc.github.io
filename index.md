@@ -22,40 +22,19 @@ The focus of my research is on the.
 
 ### PROFESSIONAL EXPERIENCE AND EDUCATION
 
-<div class="container">
-    <div class="row-fluid">
-            2020 - present:  <b>Research Assistant Professor</b><br/>
-            <a href="https://www.med.unc.edu/pathology/">Department of Pathology and Laboratory Medicine</a><br/>
-            <a href="https://www.med.unc.edu/mhi/">McAllister Heart Institute</a><br/>
-            University of North Carolina, Chapel Hill <br/><br/>
-    </div>
-</div>
+<
 
-2016 - 2020:  <b>Postdoctoral Fellow</b><br/>
-    Advisor: [Dr. Yun Li](https://www.med.unc.edu/genetics/directory/yun-li-phd/)<br/>
-    <a href="https://www.med.unc.edu/genetics/">Department of Genetics</a><br/>
-    University of North Carolina, Chapel Hill<br/>
+2016 - 2020:  
 
-2011 - 2016:  <b>Graduate/Ph.D. Student</b><br/>
-    Major: Biochemistry and Molecular Biology<br/>
-    Advisor: [Dr. Suhua Shi](http://evolution.sysu.edu.cn/Our_team.html)<br/>
-    School of Life Science<br/>
-    Sun Yat-sen University, Guangzhou, China<br/>
+2011 - 2016:  
 
 
-2007 - 2011:  <b>Undergraduate/B.S. Student</b><br/>
-    Major: Biotechnology<br/>
-    School of Life Science<br/>
-    Sun Yat-sen University, Guangzhou, China<br/>
+2007 - 2011:  
 
 ---
 
 ### HONORS AND AWARDS
-2015 - 2017 Academic Scholarship Award of Chang Hungta Science Foundation, Sun Yat-sen University<br/>
-2015    National Scholarship Award for Graduate Students, China<br/>
-2015    Wang Bosun Ecology Scholarship Award, Sun Yat-sen University<br/>
-2015    Second Prize for Outstanding Graduate Award, State Key Laboratory of Biocontrol, Sun Yat-sen University<br/>
-2008 - 2010 First Prize Scholarship Award for Undergraduate Students, Sun Yat-Sen University<br/>
+2015 - 2017 Academic Scholarship Award 
 
 ---
 
@@ -63,8 +42,8 @@ The focus of my research is on the.
 
 <div class="container">
     <div class="row-fluid">
-            <b>Email</b>: yyuchen@email.unc.edu<br/>
-            <b>Office</b>: Medical Biomolecular Research Bldg., 111 Mason Farm Road, Chapel Hill, NC 27599<br/>
-            <b>GitHub</b>: <a href="https://github.com/yycunc">https://github.com/yycunc</a><br/>
+            <b>Email</b>: yaotiechui@gmail.com<br/>
+            <b>Office</b>: CNIC<br/>
+            <b>GitHub</b>: <a href="https://github.com/yaotc">https://github.com/yaotc</a><br/>
     </div>
 </div>
