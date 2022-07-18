@@ -11,15 +11,15 @@ hi there.
 
 ### Publications
 
-[1] Yao T, Wang J, Wu H, et al. Intra-Hour Photovoltaic Generation Forecasting Based on Multi-Source Data and Deep Learning Methods[J]. IEEE Transactions on Sustainable Energy, 2021, 13(1): 607-618. $\color{red}{\text{JCR Q1}}$
+[1] Yao T, Wang J, Wu H, et al. Intra-Hour Photovoltaic Generation Forecasting Based on Multi-Source Data and Deep Learning Methods[J]. IEEE Transactions on Sustainable Energy, 2021, 13(1): 607-618. **JCR Q1**.
 
-[2] Yao T, et al. "VenusAI: An artificial intelligence platform for scientific discovery on supercomputers." Journal of Systems Architecture (2022): 102550. $\color{red}{\text{JCR Q1}}$
+[2] Yao T, et al. "VenusAI: An artificial intelligence platform for scientific discovery on supercomputers." Journal of Systems Architecture (2022): 102550. **JCR Q1**, **CCF-B**.
 
-[3] Yao T, Wang J, Wang Y, et al. Very Short-term Forecasting of Distributed PV Power using GSTANN[J].  CSEE Journal of Power and Energy Systems. $\color{red}{\text{JCR Q1}}$
+[3] Yao T, Wang J, Wang Y, et al. Very Short-term Forecasting of Distributed PV Power using GSTANN[J].  CSEE Journal of Power and Energy Systems. **JCR Q1**.
 
-[4] Yao T, Wang J, Wu H, et al. A photovoltaic power output dataset: Multi-source photovoltaic power output dataset with Python toolkit[J]. Solar Energy, 2021, 230: 122-130.  $\color{red}{\text{JCR Q2}}$
+[4] Yao T, Wang J, Wu H, et al. A photovoltaic power output dataset: Multi-source photovoltaic power output dataset with Python toolkit[J]. Solar Energy, 2021, 230: 122-130.  **JCR Q2**.
 
-[5] Yao T, Wang J, Cao H, et al. A Multi-level Attention-based LSTM Network for Ultra-short-term Solar Power Forecast using Meteorological Knowledge. The 15th International Conference on Knowledge Science, Engineering and Management. 2022.
+[5] Yao T, Wang J, Cao H, et al. A Multi-level Attention-based LSTM Network for Ultra-short-term Solar Power Forecast using Meteorological Knowledge. The 15th International Conference on Knowledge Science, Engineering and Management. 2022. **CCF-C**
 
 [6] Yao T, Xiao L, Zhao D, et al. GPU computing based fast discrete wavelet transform for l 1-regularized SPIRiT reconstruction[J]. The Imaging Science Journal, 2018, 66(7): 393-408. JCR Q4.
 
