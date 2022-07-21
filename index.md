@@ -70,3 +70,7 @@ title: Tiechui Yao
             <b>GitHub </b>: <a href="https://github.com/yaotc">https://github.com/yaotc</a><br/>
     </div>
 </div>
+
+---
+
+Total <span id="busuanzi_value_site_pv"></span> visitors.
