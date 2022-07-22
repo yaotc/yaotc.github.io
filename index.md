@@ -13,7 +13,7 @@ title: Tiechui Yao
     </div>
 </div>
 
-姚铁锤(1993--)，博士研究生，IEEE/CCF/CAAI学生会员，研究领域为基于智能超算的交叉学科领域应用。在学期间，已发表和录用学术论文13篇，其中第一作者8篇，包括JCR一区3篇和JCR二区1篇，累计影响因子为27.384，申请专利3项（已授权2项），软著1项。相关成果以第一作者身份发表在IEEE Transactions on Sustainable Energy (《能源电力领域高质量科技期刊分级目录》T1级期刊，JCR Q1，IF 8.310)、CSEE Journal of Power and Energy Systems(《分级目录》T1级期刊，JCR Q1，IF 6.014)、Solar Energy（《分级目录》T1级期刊，JCR Q2，IF 7.188），论文自发表以来受到包括美欧等数十个国家近700位研究者们的广泛关注。参与研究的人工智能平台，为国内外多个高校与科研院所用户提供技术和平台的支撑，相关成果发表在计算机领域国际期刊Journal of Systems Architecture (JCR Q1，IF 5.836)。
+姚铁锤(1993--)，博士研究生，IEEE/CCF/CAAI学生会员，研究领域为基于智能超算的人工智能交叉学科领域应用。参与国家重点研发计划、科技创新2030“新一代人工智能”重大项目、中国科学院战略性先导科技专项A类等多项国家及省部级项目课题。已发表和录用学术论文13篇，其中第一作者8篇，包括JCR一区3篇和JCR二区1篇，累计影响因子为27.384，申请专利3项（已授权2项），软著1项。相关成果以第一作者身份发表在IEEE Transactions on Sustainable Energy、CSEE Journal of Power and Energy Systems、Solar Energy等能源领域T1级期刊，论文自发表以来受到包括美欧等数十个国家近700位研究者们的广泛关注。参与研究的人工智能平台，为国内外多个高校与科研院所用户提供技术和平台的支撑，相关成果发表在计算机领域国际期刊Journal of Systems Architecture。
 
 ---
 
@@ -61,12 +61,20 @@ title: Tiechui Yao
 
 ---
 
+## SKILLS
+
+- Programming: Python/C/C++
+- Deep learning framework: Pytorch
+- 参与多个项目申请书、标书、结题报告等撰写工作
+
+---
+
 ## CONTACT INFORMATION
 
 <div class="container">
     <div class="row-fluid">
             <b>Email </b>: yaotiechui@gmail.com<br/>
-            <b>Address </b>: CNIC<br/>
+            <b>Address </b>: Computer Network Information Center, Chinese Academy of Sciences<br/>
             <b>GitHub </b>: <a href="https://github.com/yaotc">https://github.com/yaotc</a><br/>
     </div>
 </div>
