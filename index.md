@@ -35,7 +35,7 @@ title: Tiechui Yao
 - **Yao T.,** Wang J., Wu H., et al. A photovoltaic power output dataset: Multi-source photovoltaic power output dataset with Python toolkit[J]. Solar Energy, 2021, 230: 122-130. [[link](https://doi.org/10.1016/j.solener.2021.09.050)] **JCR Q2**.
 
 
-- **Yao T.**, Wang J., Cao H., et al. A Multi-level Attention-based LSTM Network for Ultra-short-term Solar Power Forecast using Meteorological Knowledge. In: The 15th International Conference on Knowledge Science, Engineering and Management. KSEM 2022. Lecture Notes in Computer Science(), vol 13369. Springer, Cham. [[link](https://doi.org/10.1007/978-3-031-10986-7_2)] **CCF-C**
+- **Yao T.**, Wang J., Cao H., et al. A Multi-level Attention-based LSTM Network for Ultra-short-term Solar Power Forecast using Meteorological Knowledge. In: The 15th International Conference on Knowledge Science, Engineering and Management. KSEM 2022. Lecture Notes in Computer Science(), vol 13369. Springer, Cham. [[link](https://doi.org/10.1007/978-3-031-10986-7_2)] **CCF-C**. **Best Student Paper**.
 
 
 - 刘晓艳,王珏,**姚铁锤**,张沛,迟学斌.基于卫星遥感的超短期分布式光伏功率预测[J].电工技术学报,2022,37(07):1800-1809.
@@ -57,7 +57,9 @@ title: Tiechui Yao
 
 ## HONORS AND AWARDS
 
-2021 - 2022 Academic Scholarship Award
+- 2022.8 - Now KSEM 2022 Best Student Paper Award
+
+- 2021 - 2022 中国科学院院长优秀奖
 
 ---
 
@@ -65,7 +67,6 @@ title: Tiechui Yao
 
 - Programming: Python/C/C++
 - Deep learning framework: Pytorch
-- 参与多个项目申请书、标书、结题报告等撰写工作
 
 ---
 
