@@ -50,6 +50,9 @@ title: Tiechui Yao
  2017级硕士，2020级博士  
  中国科学院计算机网络信息中心 -- 计算机软件与理论 -- 工科博士  
 
+- **2019 - 2020 英特尔中国研究院**  
+ 计算机视觉算法研究岗 -- Research Intern
+
 - **2012 - 2016 江西中医药大学**  
  计算机学院 -- 生物医学工程 -- 工科学士
 
@@ -57,7 +60,7 @@ title: Tiechui Yao
 
 ## HONORS AND AWARDS
 
-- 2022.8 - Now KSEM 2022 Best Student Paper Award
+- 2022.08   KSEM 2022 Best Student Paper Award
 
 - 2021 - 2022 中国科学院院长优秀奖
 
