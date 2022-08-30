@@ -62,9 +62,9 @@ title: Tiechui Yao
 
 ## HONORS AND AWARDS
 
-- 2022.08   KSEM 2022 Best Student Paper Award
+- 2022.08--KSEM 2022 Best Student Paper Award
 
-- 2021 - 2022 中国科学院院长优秀奖
+- 2022.06--2022年度中国科学院院长优秀奖
 
 ---
 
