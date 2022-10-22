@@ -13,6 +13,7 @@ title: Tiechui Yao
     </div>
 </div>
 
+
 姚铁锤(1993--)，博士研究生，IEEE/CCF/CAAI学生会员，研究领域为基于智能超算的交叉学科领域应用。在学期间，已发表和录用学术论文13篇，其中第一作者8篇，包括JCR一区3篇和JCR二区1篇，累计影响因子为27.384，申请专利6项（已授权3项），软著1项。相关成果以第一作者身份发表在IEEE Transactions on Sustainable Energy (《能源电力领域高质量科技期刊分级目录》T1级期刊，JCR Q1，IF 8.310)、CSEE Journal of Power and Energy Systems(《分级目录》T1级期刊，JCR Q1，IF 6.014)、Solar Energy（《分级目录》T1级期刊，JCR Q2，IF 7.188），论文自发表以来受到包括美欧等数十个国家近700位研究者们的广泛关注。参与研究的人工智能平台，为国内外多个高校与科研院所用户提供技术和平台的支撑，相关成果发表在计算机领域国际期刊Journal of Systems Architecture (JCR Q1，IF 5.836)。
 
 ---
@@ -35,7 +36,7 @@ title: Tiechui Yao
 - **Yao T.,** Wang J., Wu H., et al. A photovoltaic power output dataset: Multi-source photovoltaic power output dataset with Python toolkit[J]. Solar Energy, 2021, 230: 122-130. [[link](https://doi.org/10.1016/j.solener.2021.09.050)] **JCR Q2**.
 
 
-- **Yao T.**, Wang J., Cao H., et al. A Multi-level Attention-based LSTM Network for Ultra-short-term Solar Power Forecast using Meteorological Knowledge. In: The 15th International Conference on Knowledge Science, Engineering and Management. KSEM 2022. Lecture Notes in Computer Science(), vol 13369. Springer, Cham. [[link](https://doi.org/10.1007/978-3-031-10986-7_2)] **CCF-C**
+- **Yao T.**, Wang J., Cao H., et al. A Multi-level Attention-based LSTM Network for Ultra-short-term Solar Power Forecast using Meteorological Knowledge. In: The 15th International Conference on Knowledge Science, Engineering and Management. KSEM 2022. Lecture Notes in Computer Science(), vol 13369. Springer, Cham. [[link](https://doi.org/10.1007/978-3-031-10986-7_2)] **CCF-C**. **Best Student Paper**.
 
 
 - 刘晓艳,王珏,**姚铁锤**,张沛,迟学斌.基于卫星遥感的超短期分布式光伏功率预测[J].电工技术学报,2022,37(07):1800-1809.
@@ -46,9 +47,14 @@ title: Tiechui Yao
 
 ## EXPERIENCE AND EDUCATION
 
+  
+
+- **2018 - 2019 英特尔中国研究院**  
+ 计算机视觉算法研究岗 -- Research Intern
+
 - **2017 - 2023 中国科学院大学**  
  2017级硕士，2020级博士  
- 中国科学院计算机网络信息中心 -- 计算机软件与理论 -- 工科博士  
+ 中国科学院计算机网络信息中心 -- 计算机软件与理论 -- 工科博士
 
 - **2012 - 2016 江西中医药大学**  
  计算机学院 -- 生物医学工程 -- 工科学士
@@ -57,7 +63,17 @@ title: Tiechui Yao
 
 ## HONORS AND AWARDS
 
-2022年度中国科学院院长优秀奖
+
+- 2022.08--KSEM 2022 Best Student Paper Award
+
+- 2022.06--2022年度中国科学院院长优秀奖
+
+---
+
+## SKILLS
+
+- Programming: Python/C/C++
+- Deep learning framework: Pytorch
 
 ---
 
@@ -66,7 +82,7 @@ title: Tiechui Yao
 <div class="container">
     <div class="row-fluid">
             <b>Email </b>: yaotiechui@gmail.com<br/>
-            <b>Address </b>: CNIC<br/>
+            <b>Address </b>: Computer Network Information Center, Chinese Academy of Sciences<br/>
             <b>GitHub </b>: <a href="https://github.com/yaotc">https://github.com/yaotc</a><br/>
     </div>
 </div>
@@ -74,6 +90,8 @@ title: Tiechui Yao
 ---
 
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-本站总访问量<span id="busuanzi_value_site_pv"></span>次
-本站访客数<span id="busuanzi_value_site_uv"></span>人次
-本文总阅读量<span id="busuanzi_value_page_pv"></span>次
+总访问量<span id="busuanzi_value_site_pv"></span>次
+
+访客数<span id="busuanzi_value_site_uv"></span>人次
+
+总阅读量<span id="busuanzi_value_page_pv"></span>次
