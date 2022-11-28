@@ -8,9 +8,9 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : 姚铁锤 @ 中国科学院大学
+title : Yaotc @ 中国科学院大学
 author :
-  name : 姚铁锤
+  name : Yaotc
   email : yaotiechui@gmail.com
   github : https://github.com/yaotc
   feedburner : nil

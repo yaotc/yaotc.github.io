@@ -41,12 +41,9 @@ title: Tiechui Yao
 
 - **Yao T.**, Wang J., Cao H., et al. A Multi-level Attention-based LSTM Network for Ultra-short-term Solar Power Forecast using Meteorological Knowledge. In: The 15th International Conference on Knowledge Science, Engineering and Management. KSEM 2022. Lecture Notes in Computer Science(), vol 13369. Springer, Cham. [[link](https://doi.org/10.1007/978-3-031-10986-7_2)] **CCF-C**. **Best Student Paper**.
 
-- **Yao T.**, Wang J., Cao H., et al. A Multi-level Attention-based LSTM Network for Ultra-short-term Solar Power Forecast using Meteorological Knowledge. In: The 15th International Conference on Knowledge Science, Engineering and Management. KSEM 2022. Lecture Notes in Computer Science(), vol 13369. Springer, Cham. [[link](https://doi.org/10.1007/978-3-031-10986-7_2)] **CCF-C**. **Best Student Paper**.
+
 - Cao, H., Huang Z., **Yao T.**., Jue Wang*, Hui He, and Yangang Wang. "InParformer: Evolutionary Decomposition Transformers with Interactive Parallel Attention for Long-Term Time Series Forecasting." In Proceedings of the AAAI Conference on Artificial Intelligence. 2023. **CCF-A** (accept)
 
-- 刘晓艳,王珏,**姚铁锤**,张沛,迟学斌.基于卫星遥感的超短期分布式光伏功率预测[J].电工技术学报,2022,37(07):1800-1809.
-
-- 曹中潇,冯仰德,王珏,闵维潇,**姚铁锤**,高岳,王丽华,高付海.基于深度学习的稀疏矩阵向量乘运算性能预测模型[J].计算机工程,2022,48(02):86-91.
 
 ---
 
