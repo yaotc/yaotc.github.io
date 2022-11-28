@@ -14,7 +14,7 @@ title: Tiechui Yao
 </div>
 
 
-姚铁锤(1993--)，博士研究生，IEEE/CCF/CAAI学生会员，研究领域为基于智能超算的人工智能交叉学科领域应用。参与国家重点研发计划、科技创新2030“新一代人工智能”重大项目、中国科学院战略性先导科技专项A类等多项国家及省部级项目课题。已发表和录用学术论文13篇，其中第一作者8篇，包括JCR一区3篇和JCR二区1篇，累计影响因子为27.384，申请专利3项（已授权2项），软著1项。相关成果以第一作者身份发表在IEEE Transactions on Sustainable Energy、CSEE Journal of Power and Energy Systems、Solar Energy等能源领域T1级期刊，论文自发表以来受到超过20个国家学者关注，累计访问量超过1000次。参与研究的人工智能平台，为国内外多个高校与科研院所用户提供技术和平台的支撑，相关成果发表在计算机领域国际期刊Journal of Systems Architecture。
+博士研究生，IEEE/CCF/CAAI学生会员，研究领域为基于智能超算的人工智能交叉学科领域应用。参与国家重点研发计划、科技创新2030“新一代人工智能”重大项目、中国科学院战略性先导科技专项A类等多项国家及省部级项目课题。已发表和录用学术论文14篇，其中第一作者8篇，包括JCR一区3篇和JCR二区1篇，累计影响因子为27.384，申请专利6项（已授权2项），软著1项。相关成果以第一作者身份发表在IEEE Transactions on Sustainable Energy、CSEE Journal of Power and Energy Systems、Solar Energy等能源领域T1级期刊，论文自发表以来受到超过20个国家学者关注，累计访问量超过1000次。参与研究的人工智能平台，为国内外多个高校与科研院所用户提供技术和平台的支撑，相关成果发表在计算机领域国际期刊Journal of Systems Architecture。
 
 
 ---
@@ -41,6 +41,8 @@ title: Tiechui Yao
 
 - **Yao T.**, Wang J., Cao H., et al. A Multi-level Attention-based LSTM Network for Ultra-short-term Solar Power Forecast using Meteorological Knowledge. In: The 15th International Conference on Knowledge Science, Engineering and Management. KSEM 2022. Lecture Notes in Computer Science(), vol 13369. Springer, Cham. [[link](https://doi.org/10.1007/978-3-031-10986-7_2)] **CCF-C**. **Best Student Paper**.
 
+- **Yao T.**, Wang J., Cao H., et al. A Multi-level Attention-based LSTM Network for Ultra-short-term Solar Power Forecast using Meteorological Knowledge. In: The 15th International Conference on Knowledge Science, Engineering and Management. KSEM 2022. Lecture Notes in Computer Science(), vol 13369. Springer, Cham. [[link](https://doi.org/10.1007/978-3-031-10986-7_2)] **CCF-C**. **Best Student Paper**.
+- Cao, H., Huang Z., **Yao T.**., Jue Wang*, Hui He, and Yangang Wang. "InParformer: Evolutionary Decomposition Transformers with Interactive Parallel Attention for Long-Term Time Series Forecasting." In Proceedings of the AAAI Conference on Artificial Intelligence. 2023. **CCF-A** (accept)
 
 - 刘晓艳,王珏,**姚铁锤**,张沛,迟学斌.基于卫星遥感的超短期分布式光伏功率预测[J].电工技术学报,2022,37(07):1800-1809.
 
