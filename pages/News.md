@@ -2,6 +2,11 @@
 layout: page
 title: News
 ---
+## 2023.06
+
+Stop updating
+
+
 
 ## 2022.07
 
